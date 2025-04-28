@@ -2,7 +2,7 @@
 /* General page styles */
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f6f8;
+    background-color: #dfcaa0d7;
     margin: 0;
     padding: 20px;
   }
@@ -14,7 +14,7 @@ body {
   .app-container {
     max-width: 800px;
     margin: auto;
-    background: white;
+    background: #DFCAA0;
     padding: 30px;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
@@ -39,8 +39,10 @@ body {
   
   .user-form button {
     padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
+    background-color: #cfb28497;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 15px;
     border: none;
     border-radius: 8px;
     cursor: pointer;
@@ -48,7 +50,7 @@ body {
   }
   
   .user-form button:hover {
-    background-color: #0056b3;
+    background-color: #CFB284;
   }
   
   .user-form p {
@@ -63,7 +65,7 @@ body {
   }
   
   li {
-    background: #f0f2f5;
+    background: #FFFBE7;
     margin-bottom: 10px;
     padding: 12px 18px;
     border-radius: 8px;
